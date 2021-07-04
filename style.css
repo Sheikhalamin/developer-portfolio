@@ -1,0 +1,41 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.joy{
+    color: chartreuse;
+}
+#san{
+    color: rgb(139, 0, 65);
+}
+section{
+    display: flex;
+}
+.joy{
+    width: 50%;
+    padding: 2%;
+}
+#tan{
+    width: 80%;
+}
+.link{
+    text-decoration: none;
+    background-color: darkgoldenrod;
+    padding: 7px;
+    border-radius: 4px;
+    background-image: linear-gradient(red black) ;
+
+}
+#sal{
+    color: rgb(122, 50, 204);
+}
+#asal{
+    color: rgb(252, 50, 0);
+}
+#sad{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
