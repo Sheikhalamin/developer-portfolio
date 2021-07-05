@@ -64,6 +64,28 @@ a{
 .dream-big{
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
-    background-position: right;
+   background-position: right;
 
+}
+#tahi{
+    display: flex;
+}
+.pura{
+    width:50%;
+    padding-left: 10%;
+    box-shadow:10px 10px 50px blueviolet ;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 5%;
+    
+    .tas{
+        background-image: url(exp-bg.png);
+        background-repeat:no-repeat;
+        background-position:left;
+    }
+    #sai{
+        border: springgreen;
+    }
+foot p{
+    text-align: center;
 }
