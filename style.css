@@ -39,3 +39,31 @@ section{
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
 }
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.ordek #had{
+    color: darkorange;
+}
+.dream-big .ordek{
+    width: 50%;
+    
+}
+.dream-big .ordek #chobi{
+    width: 70%;
+}
+p{
+    color: darkviolet;
+}
+a{
+    background-color: rgb(34, 178, 70);
+    padding: 1%;
+    border-radius: 7%;
+}
+.dream-big{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
